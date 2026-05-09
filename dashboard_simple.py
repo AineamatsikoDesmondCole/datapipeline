@@ -59,9 +59,9 @@ def load_csv_data():
     """Load data from cleaned CSV files."""
     try:
         # Load cleaned data from CSV files
-        patents_df = pd.read_csv("clean_data_files/clean_patents.csv")
-        inventors_df = pd.read_csv("clean_data_files/clean_inventors.csv")
-        companies_df = pd.read_csv("clean_data_files/clean_companies.csv")
+        patents_df = pd.read_csv("../clean_data_files/clean_patents.csv")
+        inventors_df = pd.read_csv("../clean_data_files/clean_inventors.csv")
+        companies_df = pd.read_csv("../clean_data_files/clean_companies.csv")
         
         # Create trends data from patent dates
         if 'patent_date' in patents_df.columns:
