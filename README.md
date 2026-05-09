@@ -1,4 +1,6 @@
 # Patent Intelligence Dashboard
+
+
 <img width="1366" height="768" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/0ad1f638-6caf-438c-827d-081fa20fcb55" />
 <img width="1366" height="768" alt="Screenshot (212)" src="https://github.com/user-attachments/assets/4d7379f2-bafe-46f7-acb3-d950fa3a4975" />
 <img width="1366" height="768" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/fbad20e9-bf23-48c0-a2d5-702698a16dad" />
@@ -11,7 +13,8 @@
 <img width="1366" height="768" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/1386b083-fd0a-4dfb-a298-5e78c7302a8e" />
 <img width="1366" height="768" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/17f6c525-10bd-40da-8a02-d63b5c00009f" />
 <img width="1366" height="768" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/02897cbc-aca4-4051-9d24-21a54d7313e3" />
-
+<img width="1366" height="768" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/5e9ad0c5-dcc5-4f24-aea9-7726856523d8" />
+<img width="1366" height="768" alt="Screenshot (224)" src="https://github.com/user-attachments/assets/47c6f2ad-5add-4e31-a45e-41ac3a8dddf0" />
 
 
 
