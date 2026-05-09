@@ -1,5 +1,7 @@
 # Patent Intelligence Dashboard
-<img width="1366" height="768" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/b8b09b8f-fb84-44a1-948d-9fb3e9fbdc67" />
+<img width="1366" height="768" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/0ad1f638-6caf-438c-827d-081fa20fcb55" />
+<img width="1366" height="768" alt="Screenshot (212)" src="https://github.com/user-attachments/assets/4d7379f2-bafe-46f7-acb3-d950fa3a4975" />
+<img width="1366" height="768" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/fbad20e9-bf23-48c0-a2d5-702698a16dad" />
 <img width="1366" height="768" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/5779e213-9188-4f31-993b-74e049f805b8" />
 <img width="1366" height="768" alt="Screenshot (221)" src="https://github.com/user-attachments/assets/b5634b96-7913-479b-b571-6ef91faf9837" />
 <img width="1366" height="768" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/ffa651e8-3df2-4cfc-b109-6dad3961ebe2" />
@@ -9,9 +11,8 @@
 <img width="1366" height="768" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/1386b083-fd0a-4dfb-a298-5e78c7302a8e" />
 <img width="1366" height="768" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/17f6c525-10bd-40da-8a02-d63b5c00009f" />
 <img width="1366" height="768" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/02897cbc-aca4-4051-9d24-21a54d7313e3" />
-<img width="1366" height="768" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/fbad20e9-bf23-48c0-a2d5-702698a16dad" />
-<img width="1366" height="768" alt="Screenshot (212)" src="https://github.com/user-attachments/assets/4d7379f2-bafe-46f7-acb3-d950fa3a4975" />
-<img width="1366" height="768" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/0ad1f638-6caf-438c-827d-081fa20fcb55" />
+
+
 
 
 A comprehensive patent analytics dashboard built with Streamlit, featuring real-time visualizations and insights from patent data.
