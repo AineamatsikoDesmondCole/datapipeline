@@ -1,0 +1,14 @@
+Patent Data Analysis Report
+=========================
+Total Patents: 1,000,000
+Total Inventors: 666,382
+Total Companies: 4
+
+Patents by Year:
+  2019: 355,923
+  2020: 353,701
+  2018: 164,524
+  2021: 125,852
+
+Inventor Countries:
+  Unknown: 666,382
