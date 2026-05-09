@@ -1,0 +1,91 @@
+{
+  "generated_at": "2026-05-09T14:29:16.663058",
+  "total_patents": 1000000,
+  "top_inventors": [
+    {
+      "name": "Jerry Koltoniak",
+      "country": "Unknown",
+      "patents": 1
+    },
+    {
+      "name": "Romulad Stoncel",
+      "country": "Unknown",
+      "patents": 1
+    },
+    {
+      "name": "Jacques Perchepied",
+      "country": "Unknown",
+      "patents": 1
+    },
+    {
+      "name": "Helmut-Walter Kerschreiter",
+      "country": "Unknown",
+      "patents": 1
+    },
+    {
+      "name": "Meng Heng Huor",
+      "country": "Unknown",
+      "patents": 1
+    },
+    {
+      "name": "Neal A. Spiva",
+      "country": "Unknown",
+      "patents": 1
+    },
+    {
+      "name": "Visa Luukkonen",
+      "country": "Unknown",
+      "patents": 1
+    },
+    {
+      "name": "Jean Henri Bouquet De La Joliniere",
+      "country": "Unknown",
+      "patents": 1
+    },
+    {
+      "name": "Abhishek Singh",
+      "country": "Unknown",
+      "patents": 1
+    },
+    {
+      "name": "Abhay K. Singh",
+      "country": "Unknown",
+      "patents": 1
+    }
+  ],
+  "top_companies": [],
+  "top_countries": [
+    {
+      "country": "Unknown",
+      "patents": 100,
+      "share_percentage": 0.01
+    }
+  ],
+  "yearly_trends": [
+    {
+      "year": 2018,
+      "patents": 164524
+    },
+    {
+      "year": 2019,
+      "patents": 355923,
+      "growth_percentage": 116.34
+    },
+    {
+      "year": 2020,
+      "patents": 353701,
+      "growth_percentage": -0.62
+    },
+    {
+      "year": 2021,
+      "patents": 125852,
+      "growth_percentage": -64.42
+    }
+  ],
+  "summary": {
+    "total_inventors": 10,
+    "total_companies": 0,
+    "total_countries": 1,
+    "years_analyzed": 4
+  }
+}
