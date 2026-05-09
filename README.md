@@ -1,4 +1,18 @@
 # Patent Intelligence Dashboard
+<img width="1366" height="768" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/b8b09b8f-fb84-44a1-948d-9fb3e9fbdc67" />
+<img width="1366" height="768" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/5779e213-9188-4f31-993b-74e049f805b8" />
+<img width="1366" height="768" alt="Screenshot (221)" src="https://github.com/user-attachments/assets/b5634b96-7913-479b-b571-6ef91faf9837" />
+<img width="1366" height="768" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/ffa651e8-3df2-4cfc-b109-6dad3961ebe2" />
+<img width="1366" height="768" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/0ccb8459-fe9f-4657-b8e3-29ea410b1767" />
+<img width="1366" height="768" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/410b5b75-6da4-42ef-bd78-f090d1814b20" />
+<img width="1366" height="768" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/9334596f-ed58-479e-b466-49ebbfc289d2" />
+<img width="1366" height="768" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/1386b083-fd0a-4dfb-a298-5e78c7302a8e" />
+<img width="1366" height="768" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/17f6c525-10bd-40da-8a02-d63b5c00009f" />
+<img width="1366" height="768" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/02897cbc-aca4-4051-9d24-21a54d7313e3" />
+<img width="1366" height="768" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/fbad20e9-bf23-48c0-a2d5-702698a16dad" />
+<img width="1366" height="768" alt="Screenshot (212)" src="https://github.com/user-attachments/assets/4d7379f2-bafe-46f7-acb3-d950fa3a4975" />
+<img width="1366" height="768" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/0ad1f638-6caf-438c-827d-081fa20fcb55" />
+
 
 A comprehensive patent analytics dashboard built with Streamlit, featuring real-time visualizations and insights from patent data.
 
@@ -31,12 +45,7 @@ A comprehensive patent analytics dashboard built with Streamlit, featuring real-
    
    **⚠️ Important**: This repository contains the dashboard code only. You need to download the data files separately:
    
-   - **Cleaned Data Files**: Download from [Google Drive Link](https://drive.google.com/your-data-link)
-   - **Extract to**: `clean_data_files/` directory
-   - **Files needed**: 
-     - `clean_patents.csv` (1M+ patent records)
-     - `clean_inventors.csv` (50K+ inventor records)  
-     - `clean_companies.csv` (company records)
+ 
 
 5. **Run the dashboard:**
    ```bash
@@ -126,76 +135,4 @@ Patent-Dashboard-Final/
 └── README.md            # This file
 ```
 
-## 🎯 Data Handling
 
-This dashboard is designed to work with **real patent data**:
-
-- **1M+ Patent Records**: Complete patent dataset with titles, abstracts, filing dates
-- **50K+ Inventor Records**: Inventor information with country data
-- **Company Records**: Company/assignee information
-- **Real-time Analytics**: All visualizations use actual data
-
-## 📥 Data Download Instructions
-
-### Step 1: Download Data Files
-1. Visit the data download link: [Download Patent Data](https://drive.google.com/your-data-link)
-2. Download the zip file containing all cleaned data
-3. Extract to the repository root directory
-
-### Step 2: Verify Data Structure
-Ensure you have:
-```
-clean_data_files/
-├── clean_patents.csv    # ~100MB
-├── clean_inventors.csv  # ~50MB
-└── clean_companies.csv  # ~1MB
-```
-
-### Step 3: Run Dashboard
-```bash
-streamlit run dashboard_simple.py
-```
-
-## 🔧 Customization
-
-### Using Your Own Data
-1. Prepare your data in CSV format with the required columns
-2. Place files in `clean_data_files/` directory
-3. Ensure column names match the expected format:
-   - **Patents**: `patent_id`, `title`, `abstract`, `filing_date`, `year`
-   - **Inventors**: `inventor_id`, `name`, `country`, `patent_count`
-   - **Companies**: `company_id`, `name`, `country`
-
-### Customizing Visualizations
-- Modify chart colors and styles in the respective section functions
-- Add new visualization types using Plotly
-- Customize data processing logic as needed
-
-## 🚀 Performance
-
-- **Optimized for 1M+ records**
-- **Cached data loading** for faster performance
-- **Responsive design** for all screen sizes
-- **Interactive charts** with zoom and filter capabilities
-
-## 📞 Support
-
-For issues and questions:
-- Check the [GitHub Issues](https://github.com/AineamatsikoDesmondCole/datapipeline/issues)
-- Review the documentation
-- Contact the development team
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-**Built with ❤️ for patent intelligence and analytics**
-
-## ⚠️ Important Notes
-
-- **Data Files Not Included**: Large data files are not in this repository due to size constraints
-- **Download Required**: You must download data files separately for the dashboard to work
-- **Real Data Only**: This dashboard is designed for real patent data, not sample data
-- **Deployment**: For cloud deployment, ensure data files are accessible to the deployed application
